@@ -1,0 +1,6 @@
+projectKey=Test2_sch
+serverUrl=http://localhost:9090
+serverVersion=10.0.0.68432
+dashboardUrl=http://localhost:9090/dashboard?id=Test2_sch
+ceTaskId=AYiy7WmkasL2xC_hZSWJ
+ceTaskUrl=http://localhost:9090/api/ce/task?id=AYiy7WmkasL2xC_hZSWJ
